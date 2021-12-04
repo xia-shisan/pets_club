@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "109799",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "658039",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "1058864",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1079461",
+      "name": "宠物",
+      "font_class": "chongwu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2885791",
+      "name": "王冠",
+      "font_class": "wangguan",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "3721959",
+      "name": "密",
+      "font_class": "mi",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "4272525",
+      "name": "井号",
+      "font_class": "jinghao",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "9828793",
+      "name": "我的",
+      "font_class": "ziyuan",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "10715424",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "13769347",
+      "name": "性别-男",
+      "font_class": "xingbie-nan",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "13769358",
+      "name": "性别-女",
+      "font_class": "xingbie-nv",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "14348127",
+      "name": "消 息 (1)",
+      "font_class": "xiaoxi1",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "16950926",
+      "name": "sharp",
+      "font_class": "jinghao1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "17029475",
+      "name": "皇冠",
+      "font_class": "huangguan",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "23804506",
+      "name": "等级",
+      "font_class": "dengji",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    }
+  ]
+}
