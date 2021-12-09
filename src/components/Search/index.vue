@@ -74,8 +74,6 @@ export default {
       }
       this.timer = setTimeout(() => {
         this.$emit('emitValue', this.value.trim())
-        clearTimeout(this.timer)
-        this.timer = null
       }, 500)
     }
   }
