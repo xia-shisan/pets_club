@@ -70,14 +70,13 @@ export default {
   methods: {
     emitValue() {
       if (this.timer) {
-        return false
-      } else {
-        this.timer = setTimeout(() => {
-          clearTimeout(this.timer)
-          this.timer = null
-          this.$emit('emitValue', this.value.trim())
-        }, 1000)
+        clearTimeout(this.timer)
       }
+      this.timer = setTimeout(() => {
+        this.$emit('emitValue', this.value.trim())
+        clearTimeout(this.timer)
+        this.timer = null
+      }, 500)
     }
   }
 }
